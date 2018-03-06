@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "IIUI Reminder",
+   "icon": "./Resources/icon.png",
+   "version": "1.0.0",
+   "slug": "IIUI-Reminder-App",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.cichub.iiuireminder"
+   },
+   "android": {
+     "package": "com.cichub.iiuireminder"
+   }
+  }
+}
